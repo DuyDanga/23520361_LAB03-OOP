@@ -1,0 +1,13 @@
+﻿  BaiTap02.cpp
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(11,39): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(11,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(19,16): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(23,16): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(27,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(31,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(40,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(41,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(45,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(48,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\BaiTap02\cTamGiac.h(49,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  BaiTap02.vcxproj -> D:\UIT_23520361--BT\OOP_TH\BT_LAB03-OOP\x64\Debug\BaiTap02.exe
